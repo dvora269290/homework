@@ -4,24 +4,33 @@
 
 get בקשות:
 localhost:6200/api/user/all
-![image](https://github.com/dvora269290/homework/assets/132925327/7219657e-51ce-415f-b0e7-848a1171e7ae)
+![image](https://github.com/dvora269290/homework/assets/132925327/dacdc844-0469-471f-a547-b25748690a37)
+
 localhost:6200/api/vaccineManufacturer/all
-![image](https://github.com/dvora269290/homework/assets/132925327/e45a50f2-decf-4fd5-8f76-0eac49789252)
+![image](https://github.com/dvora269290/homework/assets/132925327/1a8ea057-836a-4565-a7a0-da4d77759e2a)
+
 localhost:6200/api/detailsAboutCovid/all
-![image](https://github.com/dvora269290/homework/assets/132925327/d5f0fa5b-687d-464f-bf3a-39f78796b1b8)
+![image](https://github.com/dvora269290/homework/assets/132925327/8b2e141e-b935-4c6e-bae7-27d6d79f1705)
+
 localhost:6200/api/user/allSicksToday
-![image](https://github.com/dvora269290/homework/assets/132925327/b74d6648-6471-4950-b9f4-0a06cd787d4c)
+![image](https://github.com/dvora269290/homework/assets/132925327/55c9a023-4cfe-4c28-8d5a-007625361381)
 
 
 post בקשות:
-הוספת משתמש:![image](https://github.com/dvora269290/homework/assets/132925327/334f8845-c4ab-4994-88ef-10d4bfb06b02)
-כאשר משתמש כבר קיים:![image](https://github.com/dvora269290/homework/assets/132925327/92e867bd-8797-4aaf-9042-02afa81da456)
-חיפוש משתמש:![image](https://github.com/dvora269290/homework/assets/132925327/38270e74-fb76-40b9-98e7-9082f66eed99)
-הוספת פרטי משתמש(חיסונים או מחלה):![image](https://github.com/dvora269290/homework/assets/132925327/1b9bafef-2524-4db9-881d-6361038c2958)
-כאשר קיים כבר פרטי משתמש(חיסונים או מחלה):![image](https://github.com/dvora269290/homework/assets/132925327/bde2f7e8-cedc-4c61-ad26-d88389d91b16)
-חיפוש פרטי משתמש:![image](https://github.com/dvora269290/homework/assets/132925327/a6415bdd-1af5-4128-9e75-36751065770b)
-הוספת יצרן חיסון:![image](https://github.com/dvora269290/homework/assets/132925327/3a76a300-3c80-41ff-b15e-581b46586b80)
-כאשר יצרן כבר קיים:![image](https://github.com/dvora269290/homework/assets/132925327/26c9541e-e099-4c2b-adee-76b8fa984597)
+הוספת משתמש:![image](https://github.com/dvora269290/homework/assets/132925327/0172aa68-78e3-4d70-b241-28c030bd4cf9)
+
+כאשר משתמש כבר קיים:![image](https://github.com/dvora269290/homework/assets/132925327/faae4f26-5723-4712-a677-a0d42c7d7871)
+חיפוש משתמש:![image](https://github.com/dvora269290/homework/assets/132925327/346ca15f-65ac-4bc7-b569-bbc4ec8865d3)
+הוספת פרטי משתמש(חיסונים או מחלה):![image](https://github.com/dvora269290/homework/assets/132925327/5b8db988-da56-4ec9-b94f-f47f38dcf10c)
+
+כאשר קיים כבר פרטי משתמש(חיסונים או מחלה) : ![image](https://github.com/dvora269290/homework/assets/132925327/74e314b7-4362-45b6-9810-1e3bf319fd59)
+
+חיפוש פרטי משתמש:![image](https://github.com/dvora269290/homework/assets/132925327/f39b57e0-f925-4a18-b5ce-eb6da477f622)
+
+הוספת יצרן חיסון:![image](https://github.com/dvora269290/homework/assets/132925327/e494b904-d4f5-496d-acaf-f1785640633c)
+
+כאשר יצרן כבר קיים:![image](https://github.com/dvora269290/homework/assets/132925327/c7bf28c5-921c-44aa-b349-b448979df3e6)
+
 
 
 
